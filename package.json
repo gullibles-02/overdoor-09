@@ -1,10 +1,18 @@
 {
-  "name": "cBoXVBr2c0j3cJNGrETK04XSNFv9Y6T7tFfvnRR8SXgThUtuxD",
+  "name": "สถิติหวย 2565 kapook สรุปว่าอะไร - เว็บใหม่ ruay 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.28",
   "description": "สถิติหวย 2565 kapook สถิติหวยหุ้นนิเคอิตั้งแต่ โดย สถิติหวย 2565 kapook ที่ Ruay เว็บหวยออนไลน์ อันดับหนึ่ง งวดวันที่ 28 มกราคม 2566 จนถึงวันที่ 17 สถิติหว",
   "repository": "https://github.com/gullibles-02/overdoor-09",
-  "keywords": ["สถิติหวย 2565 KAPOOK","สถิติหวย","2565","KAPOOK","สถิติหวย Ruay","2565 Ruay","KAPOOK Ruay"],
+  "keywords": [
+    "สถิติหวย 2565 KAPOOK",
+    "สถิติหวย",
+    "2565",
+    "KAPOOK",
+    "สถิติหวย Ruay",
+    "2565 Ruay",
+    "KAPOOK Ruay"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
