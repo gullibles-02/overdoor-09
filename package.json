@@ -1,10 +1,20 @@
 {
-  "name": "WXhI5ljlo9jVYa4yQPMxnWXmUMUYOy0uN2gXCYlrmmny09uEnb",
+  "name": "หวยลาว 4 ตัว วันนี้ สมัครยังไง - เว็บใหม่ jetsadabet 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.7",
   "description": "หวยลาว 4 ตัว วันนี้ ผลการออกรางวัล ดั่ง หวยลาว 4 ตัว วันนี้ Jetsadabet เจษฎาเบท หวยออนไลน์ มีหวยทุกชนิด หวยฮานอย ( Xổ Số Hà NộI ) ทั้ง 3 หวยลาว 4 ตัว วันนี",
   "repository": "https://github.com/gullibles-02/overdoor-09",
-  "keywords": ["หวยลาว 4 ตัว วันนี้","หวยลาว","4","ตัว","วันนี้","หวยลาว Jetsadabet","4 Jetsadabet","ตัว Jetsadabet","วันนี้ Jetsadabet"],
+  "keywords": [
+    "หวยลาว 4 ตัว วันนี้",
+    "หวยลาว",
+    "4",
+    "ตัว",
+    "วันนี้",
+    "หวยลาว Jetsadabet",
+    "4 Jetsadabet",
+    "ตัว Jetsadabet",
+    "วันนี้ Jetsadabet"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
