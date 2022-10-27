@@ -1,0 +1,12 @@
+{
+  "name": "gEY780aqrloA4Vw5BCCokDhYMuGHfYAOIsGmx59xCeGWUkSDR0",
+  "theme": "syntax",
+  "version": "1.0.4",
+  "description": "หวยหุ้นวันนี้.com v2 นักเสี่ยงโชครายหนึ่งในจังหวัดเชียงใหม่ ดั่ง หวยหุ้นวันนี้.com v2 Thailotto หวยออนไลน์ อันดับหนึ่ง ถูกหวย 48 ล้าน รวยเต็มๆแบบไม่แบ่งใคร",
+  "repository": "https://github.com/gullibles-02/overdoor-09",
+  "keywords": ["หวยหุ้นวันนี้.COM V2","หวยหุ้นวันนี้.COM","V2","หวยหุ้นวันนี้.COM Thailotto","V2 Thailotto"],
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
