@@ -1,10 +1,13 @@
 {
-  "name": "51xRx933bd7f7taxhTXRpYhj58hbK8AgnqQQkJyk0h17Ak7YTi",
+  "name": "เลขหุ้นเยอรมันวันนี้ มีคำตอบ - เว็บใหม่ thailotto 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.58",
   "description": "เลขหุ้นเยอรมันวันนี้ หวยภาพปริศนา เลขหุ้นเยอรมันวันนี้ ของ เลขหุ้นเยอรมันวันนี้ Thailotto หวยออนไลน์ อันดับหนึ่ง 1762 เข้าต่อเนื่อง 4 งวดซ้อน งวดที่แล้วเข้",
   "repository": "https://github.com/gullibles-02/overdoor-09",
-  "keywords": ["เลขหุ้นเยอรมันวันนี้","เลขหุ้นเยอรมันวันนี้ Thailotto"],
+  "keywords": [
+    "เลขหุ้นเยอรมันวันนี้",
+    "เลขหุ้นเยอรมันวันนี้ Thailotto"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
