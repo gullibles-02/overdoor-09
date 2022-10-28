@@ -2,9 +2,9 @@
   "name": "WEGYCMed1KqdqeyaZeTjOYzZCQDyDbABsnvRjWYCEtCznHMYv3",
   "theme": "syntax",
   "version": "1.0.67",
-  "description": "ตารางคะแนนสิงคโปร์ลีก อัตราจ่ายหวยรัฐบาล แม้ว่า ตารางคะแนนสิงคโปร์ลีก Masurebet หวยออนไลน์ อันดับหนึ่ง เว็บหวยออนไลน์ หวยดี Huaydee ให้อัตราจ่ายสูงสุดถึงบา",
+  "description": "ดัชนีหุ้นเกาหลี เลขเด็ด และ ดัชนีหุ้นเกาหลี ที่ Lotto เว็บหวยออนไลน์ อันดับหนึ่ง งวดประจำวันที่ 1 กรกฎาคม 2566 เว็บไซต์หวยไทยขอนำเสนอชุดเลขจากหวยปฏิทินหมอไ",
   "repository": "https://github.com/gullibles-02/overdoor-09",
-  "keywords": ["ตารางคะแนนสิงคโปร์ลีก","ตารางคะแนนสิงคโปร์ลีก Masurebet"],
+  "keywords": ["ดัชนีหุ้นเกาหลี","ดัชนีหุ้นเกาหลี Lotto"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
