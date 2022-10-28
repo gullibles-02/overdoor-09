@@ -1,13 +1,10 @@
 {
-  "name": "ตารางคะแนนสิงคโปร์ลีก ดูที่ไหน - เว็บใหม่ masurebet 2023 ล่าสุด",
+  "name": "WEGYCMed1KqdqeyaZeTjOYzZCQDyDbABsnvRjWYCEtCznHMYv3",
   "theme": "syntax",
   "version": "1.0.67",
   "description": "ตารางคะแนนสิงคโปร์ลีก อัตราจ่ายหวยรัฐบาล แม้ว่า ตารางคะแนนสิงคโปร์ลีก Masurebet หวยออนไลน์ อันดับหนึ่ง เว็บหวยออนไลน์ หวยดี Huaydee ให้อัตราจ่ายสูงสุดถึงบา",
   "repository": "https://github.com/gullibles-02/overdoor-09",
-  "keywords": [
-    "ตารางคะแนนสิงคโปร์ลีก",
-    "ตารางคะแนนสิงคโปร์ลีก Masurebet"
-  ],
+  "keywords": ["ตารางคะแนนสิงคโปร์ลีก","ตารางคะแนนสิงคโปร์ลีก Masurebet"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
