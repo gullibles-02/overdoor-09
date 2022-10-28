@@ -1,10 +1,16 @@
 {
-  "name": "QRT95AwExjiYhMUksBXKpxiRwWjxU6FALdIgtAcA5X3RlegmDg",
+  "name": "bse sensex ที่ไหน - เว็บใหม่ kerry899 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.70",
   "description": "bse sensex หวยที่ธกส.หรือ ทว่า bse sensex Kerry899 หวยออนไลน์ อันดับหนึ่ง สลากหวยทวีสิน จะมีการออกรางวัลทุกวันที่ 16 ของทุกเดือน การเล่นจะคล้ายกับหวยใต้ดิน",
   "repository": "https://github.com/gullibles-02/overdoor-09",
-  "keywords": ["BSE SENSEX","BSE","SENSEX","BSE Kerry899","SENSEX Kerry899"],
+  "keywords": [
+    "BSE SENSEX",
+    "BSE",
+    "SENSEX",
+    "BSE Kerry899",
+    "SENSEX Kerry899"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
