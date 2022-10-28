@@ -1,10 +1,13 @@
 {
-  "name": "WEGYCMed1KqdqeyaZeTjOYzZCQDyDbABsnvRjWYCEtCznHMYv3",
+  "name": "ดัชนีหุ้นเกาหลี ดูยังไง - เว็บใหม่ lotto 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.67",
   "description": "ดัชนีหุ้นเกาหลี เลขเด็ด และ ดัชนีหุ้นเกาหลี ที่ Lotto เว็บหวยออนไลน์ อันดับหนึ่ง งวดประจำวันที่ 1 กรกฎาคม 2566 เว็บไซต์หวยไทยขอนำเสนอชุดเลขจากหวยปฏิทินหมอไ",
   "repository": "https://github.com/gullibles-02/overdoor-09",
-  "keywords": ["ดัชนีหุ้นเกาหลี","ดัชนีหุ้นเกาหลี Lotto"],
+  "keywords": [
+    "ดัชนีหุ้นเกาหลี",
+    "ดัชนีหุ้นเกาหลี Lotto"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
